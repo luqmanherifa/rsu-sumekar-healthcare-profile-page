@@ -18,3 +18,5 @@
 ### Tools
   - Visual Studio Code
   - Figma
+
+*Note: The full source code for this project is private and cannot be shared publicly.*
