@@ -1,4 +1,4 @@
-# RSU Sumekar: Healthcare Profile Page
+# RSU Sumekar: Healthcare Company Profile
 RSU Sumekar: Healthcare Company Profile is a hospital landing page that displays information such as profile, gallery, outpatient services, doctors, schedules, and contact details. The project was developed as a web-based company profile using React, Tailwind CSS, and others.
 
 ## Interface
